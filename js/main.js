@@ -5,7 +5,7 @@ import { Footer } from './components/footer.js';
 const app = document.getElementById('app');
 
 app.innerHTML = `
-  ${hero()}
-  ${links()}
-  ${footer()}
+  ${Hero()}
+  ${Links()}
+  ${Footer()}
 `;
