@@ -1,6 +1,6 @@
-import { Hero } from './components/Hero.js';
-import { Links } from './components/Links.js';
-import { Footer } from './components/Footer.js';
+import { Hero } from './components/hero.js';
+import { Links } from './components/links.js';
+import { Footer } from './components/footer.js';
 
 const app = document.getElementById('app');
 
