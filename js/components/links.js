@@ -16,6 +16,10 @@ export function Links() {
         <span>Instagram</span>
         <span>→</span>
       </a>
+       <a href="https://www.sincronizzaa.com.br/" class="link-card">
+        <span>Sincronizza Gestão</span>
+        <span>→</span>
+      </a>
 
     </section>
   `;
